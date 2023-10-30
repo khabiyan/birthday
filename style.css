@@ -1,0 +1,10 @@
+.jumbotron, #about, #album, #contact {
+    padding-top: 6rem;
+    
+}
+.jumbotron {
+    background-color: #e2edff;
+}
+#album {
+    background-color: #e2edff;
+}
